@@ -29,7 +29,7 @@ public class UserService implements IUserService {
 
 	public void loginQuery(Map<?, ?> key, List<?> attr) {
 		23eghwkleg
-			System.out.println("aslfbajlfgkawe");
+			System.out.println("Hola que tal bootcamp");
 	}
 
 	//Sample to permission
