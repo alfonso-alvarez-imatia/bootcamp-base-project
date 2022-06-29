@@ -1,4 +1,4 @@
-package bctwozerotwotwo.bootcamp-base-project.model.core.service;
+package bctwozerotwotwo.bootcamp.base.project.model.core.service;
 
 
 import java.sql.Timestamp;
@@ -11,8 +11,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Lazy;
 import org.springframework.stereotype.Service;
 
-import bctwozerotwotwo.bootcamp-base-project.api.core.service.IUserService;
-import bctwozerotwotwo.bootcamp-base-project.model.core.dao.UserDao;
+import bctwozerotwotwo.bootcamp.base.project.api.core.service.IUserService;
+import bctwozerotwotwo.bootcamp.base.project.model.core.dao.UserDao;
 import com.ontimize.jee.common.dto.EntityResult;
 import com.ontimize.jee.server.dao.DefaultOntimizeDaoHelper;
 

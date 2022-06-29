@@ -1,4 +1,4 @@
-package bctwozerotwotwo.bootcamp-base-project.model.core.dao;
+package bctwozerotwotwo.bootcamp.base.project.model.core.dao;
 
 
 import org.springframework.context.annotation.Lazy;

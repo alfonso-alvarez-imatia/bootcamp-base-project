@@ -1,4 +1,4 @@
-package bctwozerotwotwo.bootcamp-base-project.ws.core.rest;
+package bctwozerotwotwo.bootcamp.base.project.ws.core.rest;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import bctwozerotwotwo.bootcamp-base-project.api.core.service.IUserService;
+import bctwozerotwotwo.bootcamp.base.project.api.core.service.IUserService;
 import com.ontimize.jee.common.dto.EntityResult;
 import com.ontimize.jee.server.rest.ORestController;
 

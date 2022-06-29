@@ -60,6 +60,8 @@ server:
    compression:
       enabled: true
       mime-types: application/json, application/xml
+   servlet:
+      context-path:
 spring:
    datasource:
       driver-class-name: org.hsqldb.jdbcDriver
